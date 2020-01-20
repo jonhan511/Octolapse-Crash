@@ -1,0 +1,956 @@
+2020-01-19 01:29:06,243 Octolapse - loaded and active.
+2020-01-19 01:29:13,830 Octolapse - is loading template configurations.
+2020-01-19 05:07:50,392 Sending on_snapshot_complete payload.
+2020-01-19 05:15:20,150 Sending on_snapshot_complete payload.
+2020-01-19 05:23:14,341 Sending on_snapshot_complete payload.
+2020-01-19 05:23:47,463 Sending on_snapshot_complete payload.
+2020-01-19 05:34:28,995 Sending on_snapshot_complete payload.
+2020-01-19 05:46:27,404 Sending on_snapshot_complete payload.
+2020-01-19 05:58:24,645 Sending on_snapshot_complete payload.
+2020-01-19 06:08:39,175 Sending on_snapshot_complete payload.
+2020-01-19 06:18:11,466 Sending on_snapshot_complete payload.
+2020-01-19 06:27:08,362 Sending on_snapshot_complete payload.
+2020-01-19 06:34:00,376 Sending on_snapshot_complete payload.
+2020-01-19 06:37:50,555 Sending on_snapshot_complete payload.
+2020-01-19 06:40:59,812 Sending on_snapshot_complete payload.
+2020-01-19 06:44:18,323 Sending on_snapshot_complete payload.
+2020-01-19 06:45:41,256 Sending on_snapshot_complete payload.
+2020-01-19 06:47:03,039 Sending on_snapshot_complete payload.
+2020-01-19 06:48:29,031 Sending on_snapshot_complete payload.
+2020-01-19 06:49:36,540 Sending on_snapshot_complete payload.
+2020-01-19 06:50:43,861 Sending on_snapshot_complete payload.
+2020-01-19 06:51:49,607 Sending on_snapshot_complete payload.
+2020-01-19 06:52:49,705 Sending on_snapshot_complete payload.
+2020-01-19 06:53:48,587 Sending on_snapshot_complete payload.
+2020-01-19 06:54:55,150 Sending on_snapshot_complete payload.
+2020-01-19 06:55:58,154 Sending on_snapshot_complete payload.
+2020-01-19 06:57:03,964 Sending on_snapshot_complete payload.
+2020-01-19 06:57:47,514 Sending on_snapshot_complete payload.
+2020-01-19 06:58:28,896 Sending on_snapshot_complete payload.
+2020-01-19 06:59:09,370 Sending on_snapshot_complete payload.
+2020-01-19 07:00:04,296 Sending on_snapshot_complete payload.
+2020-01-19 07:00:55,157 Sending on_snapshot_complete payload.
+2020-01-19 07:01:48,857 Sending on_snapshot_complete payload.
+2020-01-19 07:02:39,655 Sending on_snapshot_complete payload.
+2020-01-19 07:03:31,509 Sending on_snapshot_complete payload.
+2020-01-19 07:04:26,904 Sending on_snapshot_complete payload.
+2020-01-19 07:05:23,211 Sending on_snapshot_complete payload.
+2020-01-19 07:06:13,143 Sending on_snapshot_complete payload.
+2020-01-19 07:06:56,464 Sending on_snapshot_complete payload.
+2020-01-19 07:07:31,553 Sending on_snapshot_complete payload.
+2020-01-19 07:07:59,798 Sending on_snapshot_complete payload.
+2020-01-19 07:08:20,261 Sending on_snapshot_complete payload.
+2020-01-19 07:19:54,284 Octolapse - loaded and active.
+2020-01-19 07:20:00,322 Octolapse - is loading template configurations.
+2020-01-20 06:06:09,093 Octolapse - loaded and active.
+2020-01-20 06:06:14,455 Octolapse - is loading template configurations.
+2020-01-20 06:09:32,762 Octolapse - loaded and active.
+2020-01-20 06:09:40,138 Octolapse - is loading template configurations.
+2020-01-20 06:19:26,971 Octolapse - loaded and active.
+2020-01-20 06:19:29,775 Octolapse - is loading template configurations.
+2020-01-20 06:19:36,085 Octolapse - is loading template configurations.
+2020-01-20 06:41:22,272 Octolapse - is loading template configurations.
+2020-01-20 06:41:22,274 Octolapse - is loading template configurations.
+2020-01-20 06:41:34,698 Octolapse - is loading template configurations.
+2020-01-20 06:45:20,309 Octolapse - is loading template configurations.
+2020-01-20 06:52:53,245 Octolapse - loaded and active.
+2020-01-20 06:52:56,147 Octolapse - is loading template configurations.
+2020-01-20 07:02:24,876 Saving Settings.
+2020-01-20 07:02:24,971 Settings saved.
+2020-01-20 07:07:14,412 Printer event received:ClientClosed.
+2020-01-20 07:07:15,575 Printer event received:ClientClosed.
+2020-01-20 07:07:15,756 Printer event received:Shutdown.
+2020-01-20 07:07:33,084 Settings loaded.
+2020-01-20 07:07:33,096 Setting octolapse camera address to http://127.0.0.1:8080/.
+2020-01-20 07:07:33,097 Setting octolapse camera snapshot template to {camera_address}?action=snapshot.
+2020-01-20 07:07:33,107 Octolapse - loaded and active.
+2020-01-20 07:07:36,346 Printer event received:ClientOpened.
+2020-01-20 07:07:36,490 Printer event received:ConnectivityChanged.
+2020-01-20 07:07:43,027 Octolapse - is loading template configurations.
+2020-01-20 07:08:38,870 Printer event received:ClientOpened.
+2020-01-20 07:10:08,772 Printer event received:ClientClosed.
+2020-01-20 07:10:15,500 Printer event received:ClientOpened.
+2020-01-20 07:10:30,776 Saving Settings.
+2020-01-20 07:10:30,836 Settings saved.
+2020-01-20 07:10:38,471 Saving Settings.
+2020-01-20 07:10:38,564 Settings saved.
+2020-01-20 07:23:30,117 Printer event received:FileAdded.
+2020-01-20 07:23:30,123 Printer event received:UpdatedFiles.
+2020-01-20 07:23:30,130 Printer event received:MetadataAnalysisStarted.
+2020-01-20 07:23:30,139 Printer event received:UpdatedFiles.
+2020-01-20 07:23:30,143 Printer event received:Upload.
+2020-01-20 07:23:30,265 Printer event received:MetadataAnalysisFinished.
+2020-01-20 07:23:31,819 Printer event received:MetadataAnalysisFinished.
+2020-01-20 07:23:31,872 Printer event received:MetadataAnalysisFinished.
+2020-01-20 07:23:47,852 Printer event received:Connecting.
+2020-01-20 07:23:47,961 Printer event received:PrinterStateChanged.
+2020-01-20 07:23:48,006 Printer event received:PrinterStateChanged.
+2020-01-20 07:23:48,015 Printer event received:PrinterStateChanged.
+2020-01-20 07:23:49,297 Printer event received:PrinterStateChanged.
+2020-01-20 07:23:49,364 Printer event received:Connected.
+2020-01-20 07:23:51,351 Printer event received:FirmwareData.
+2020-01-20 07:23:51,924 Printer event received:UpdatedFiles.
+2020-01-20 07:23:51,933 Printer event received:UpdatedFiles.
+2020-01-20 07:24:02,186 Printer event received:FileSelected.
+2020-01-20 07:24:02,192 Printer event received:PrinterStateChanged.
+2020-01-20 07:24:02,209 Printer event received:PrintStarted.
+2020-01-20 07:24:02,209 Printer event received:DisplayLayerProgress_progressChanged.
+2020-01-20 07:24:02,257 Print Start Detected.  Command: M110 N0, Tags:set(['trigger:comm.start_print', 'source:job', 'trigger:comm.reset_line_numbers'])
+2020-01-20 07:24:02,259 Print start detected, attempting to start timelapse.
+2020-01-20 07:24:02,323 Camera settings applied without error.
+2020-01-20 07:24:02,324 Camera settings applied without error.
+2020-01-20 07:24:02,335 Extruder Triggers - OnExtrudingStart:True, OnExtruding:True, OnPrimed:True, OnRetractingStart:None OnRetracting:None, OnPartiallyRetracted:False, OnRetracted:True, ONDetractingStart:False, OnDetracting:False, OnDetracted:False
+2020-01-20 07:24:02,336 Creating Layer Trigger - TriggerHeight:0.0 (none = layer change), RequiresZHop:False
+2020-01-20 07:24:02,341 Print Started - Timelapse Started.
+2020-01-20 07:24:02,347 Queuing Command: Command Type:None, gcode:M110, cmd: M110 N0, tags: set(['trigger:comm.start_print', 'source:job', 'trigger:comm.reset_line_numbers'])
+2020-01-20 07:24:02,358 Queuing Command: Command Type:None, gcode:M82, cmd: M82, tags: set(['fileline:1', 'source:file', 'filepos:267'])
+2020-01-20 07:24:02,359 Received M82 - Switching Extruder to Absolute Coordinates
+2020-01-20 07:24:02,362 Extruder Changed: E:0.0, Retraction:0 IsExtruding:False-False, IsExtrudingStart:False-False, IsPrimed:False-True, IsRetractingStart:False-False, IsRetracting:False-False, IsPartiallyRetracted:False-False, IsRetracted:False-False, IsDetractingStart:False-False, IsDetracting:False-False, IsDetracted:False-False
+2020-01-20 07:24:02,367 Printer event received:PrinterStateChanged.
+2020-01-20 07:24:02,378 Sent to printer: Command Type:None, gcode:M110, cmd: M110 N0, tags: set(['trigger:comm.start_print', 'source:job', 'trigger:comm.reset_line_numbers'])
+2020-01-20 07:24:02,384 Received from printer: line:ok
+
+2020-01-20 07:24:02,392 Queuing Command: Command Type:None, gcode:M201, cmd: M201 X500.00 Y500.00 Z100.00 E5000.00, tags: set(['source:file', 'filepos:338', 'fileline:2'])
+2020-01-20 07:24:02,396 Sent to printer: Command Type:None, gcode:M82, cmd: M82, tags: set(['fileline:1', 'source:file', 'filepos:267'])
+2020-01-20 07:24:02,406 Received from printer: line:ok
+
+2020-01-20 07:24:02,407 Queuing Command: Command Type:None, gcode:M203, cmd: M203 X500.00 Y500.00 Z10.00 E50.00, tags: set(['source:file', 'fileline:3', 'filepos:402'])
+2020-01-20 07:24:02,462 Sent to printer: Command Type:None, gcode:M201, cmd: M201 X500.00 Y500.00 Z100.00 E5000.00, tags: set(['source:file', 'filepos:338', 'fileline:2'])
+2020-01-20 07:24:02,470 Printer event received:DisplayLayerProgress_heightChanged.
+2020-01-20 07:24:02,472 Received from printer: line:ok
+
+2020-01-20 07:24:02,477 Queuing Command: Command Type:None, gcode:M204, cmd: M204 P500.00 R1000.00 T500.00, tags: set(['filepos:474', 'source:file', 'fileline:4'])
+2020-01-20 07:24:02,495 Sent to printer: Command Type:None, gcode:M203, cmd: M203 X500.00 Y500.00 Z10.00 E50.00, tags: set(['source:file', 'fileline:3', 'filepos:402'])
+2020-01-20 07:24:02,499 Printer event received:DisplayLayerProgress_heightChanged.
+2020-01-20 07:24:02,511 Received from printer: line:ok
+
+2020-01-20 07:24:02,512 Queuing Command: Command Type:None, gcode:M205, cmd: M205 X8.00 Y8.00 Z0.40 E5.00, tags: set(['filepos:516', 'source:file', 'fileline:5'])
+2020-01-20 07:24:02,519 Sent to printer: Command Type:None, gcode:M204, cmd: M204 P500.00 R1000.00 T500.00, tags: set(['filepos:474', 'source:file', 'fileline:4'])
+2020-01-20 07:24:02,526 Received from printer: line:ok
+
+2020-01-20 07:24:02,530 Queuing Command: Command Type:None, gcode:M220, cmd: M220 S100, tags: set(['source:file', 'filepos:543', 'fileline:6'])
+2020-01-20 07:24:02,544 Sent to printer: Command Type:None, gcode:M205, cmd: M205 X8.00 Y8.00 Z0.40 E5.00, tags: set(['filepos:516', 'source:file', 'fileline:5'])
+2020-01-20 07:24:02,550 Printer event received:DisplayLayerProgress_heightChanged.
+2020-01-20 07:24:02,557 Received from printer: line:ok
+
+2020-01-20 07:24:02,564 Queuing Command: Command Type:None, gcode:M221, cmd: M221 S100, tags: set(['source:file', 'filepos:570', 'fileline:7'])
+2020-01-20 07:24:02,570 Sent to printer: Command Type:None, gcode:M220, cmd: M220 S100, tags: set(['source:file', 'filepos:543', 'fileline:6'])
+2020-01-20 07:24:02,576 Received from printer: line:ok
+
+2020-01-20 07:24:02,580 Queuing Command: Command Type:None, gcode:M140, cmd: M140 S60, tags: set(['fileline:8', 'source:file', 'filepos:634'])
+2020-01-20 07:24:02,584 Queuing Command: Command Type:None, gcode:M104, cmd: M104 S205 T0, tags: set(['fileline:9', 'source:file', 'filepos:677'])
+2020-01-20 07:24:02,590 Sent to printer: Command Type:None, gcode:M221, cmd: M221 S100, tags: set(['source:file', 'filepos:570', 'fileline:7'])
+2020-01-20 07:24:02,603 Printer event received:Error.
+2020-01-20 07:24:02,618 Printer event received:UpdatedFiles.
+2020-01-20 07:24:02,622 Printer event received:UpdatedFiles.
+2020-01-20 07:24:02,679 Printer event received:Disconnected.
+2020-01-20 07:24:02,709 Starting render.
+2020-01-20 07:24:02,710 Reading snapshot metadata from /home/pi/.octoprint/data/octolapse/snapshots/da20e2ad-8323-42cd-8ee6-d0b26412fcdf/354def78-9eea-409a-ad23-ee966dfff4ba/metadata.csv
+2020-01-20 07:24:02,713 Found 0 images via a manual search.
+2020-01-20 07:24:02,715 insufficient-images: No snapshots were found for the 'Default Webcam' camera profile.
+2020-01-20 07:24:02,718 Completed rendering. JobId: da20e2ad-8323-42cd-8ee6-d0b26412fcdf
+2020-01-20 07:24:02,719 Printer disconnected.
+2020-01-20 07:24:02,721 Starting render.
+2020-01-20 07:24:02,736 Reading snapshot metadata from /home/pi/.octoprint/data/octolapse/snapshots/da20e2ad-8323-42cd-8ee6-d0b26412fcdf/ea5a14ee-859b-485c-9883-358cf9a4d869/metadata.csv
+2020-01-20 07:24:02,741 Found 0 images via a manual search.
+2020-01-20 07:24:02,747 insufficient-images: No snapshots were found for the 'DSLR' camera profile.
+2020-01-20 07:24:02,749 Completed rendering. JobId: da20e2ad-8323-42cd-8ee6-d0b26412fcdf
+2020-01-20 07:24:02,751 Printer event received:PrinterStateChanged.
+2020-01-20 07:24:02,904 Printer event received:MetadataStatisticsUpdated.
+2020-01-20 07:24:02,930 Printer event received:PrintFailed.
+2020-01-20 07:24:02,931 Print failed.
+2020-01-20 07:24:22,292 Printer event received:Connecting.
+2020-01-20 07:24:22,430 Printer event received:PrinterStateChanged.
+2020-01-20 07:24:22,446 Printer event received:PrinterStateChanged.
+2020-01-20 07:24:26,230 Printer event received:PrinterStateChanged.
+2020-01-20 07:24:26,261 Printer event received:Connected.
+2020-01-20 07:24:26,289 Printer event received:FirmwareData.
+2020-01-20 07:24:26,842 Printer event received:UpdatedFiles.
+2020-01-20 07:24:26,847 Printer event received:UpdatedFiles.
+2020-01-20 07:24:34,711 Printer event received:FileSelected.
+2020-01-20 07:24:34,715 Printer event received:PrinterStateChanged.
+2020-01-20 07:24:34,734 Printer event received:PrintStarted.
+2020-01-20 07:24:34,734 Printer event received:DisplayLayerProgress_progressChanged.
+2020-01-20 07:24:34,777 Print Start Detected.  Command: M110 N0, Tags:set(['trigger:comm.start_print', 'source:job', 'trigger:comm.reset_line_numbers'])
+2020-01-20 07:24:34,778 Print start detected, attempting to start timelapse.
+2020-01-20 07:24:34,818 Camera settings applied without error.
+2020-01-20 07:24:34,819 Camera settings applied without error.
+2020-01-20 07:24:34,831 Extruder Triggers - OnExtrudingStart:True, OnExtruding:True, OnPrimed:True, OnRetractingStart:None OnRetracting:None, OnPartiallyRetracted:False, OnRetracted:True, ONDetractingStart:False, OnDetracting:False, OnDetracted:False
+2020-01-20 07:24:34,833 Creating Layer Trigger - TriggerHeight:0.0 (none = layer change), RequiresZHop:False
+2020-01-20 07:24:34,834 Print Started - Timelapse Started.
+2020-01-20 07:24:34,851 Queuing Command: Command Type:None, gcode:M110, cmd: M110 N0, tags: set(['trigger:comm.start_print', 'source:job', 'trigger:comm.reset_line_numbers'])
+2020-01-20 07:24:34,856 Printer event received:PrinterStateChanged.
+2020-01-20 07:24:34,857 Queuing Command: Command Type:None, gcode:M82, cmd: M82, tags: set(['fileline:1', 'source:file', 'filepos:267'])
+2020-01-20 07:24:34,858 Received M82 - Switching Extruder to Absolute Coordinates
+2020-01-20 07:24:34,859 Extruder Changed: E:0.0, Retraction:0 IsExtruding:False-False, IsExtrudingStart:False-False, IsPrimed:False-True, IsRetractingStart:False-False, IsRetracting:False-False, IsPartiallyRetracted:False-False, IsRetracted:False-False, IsDetractingStart:False-False, IsDetracting:False-False, IsDetracted:False-False
+2020-01-20 07:24:34,871 Sent to printer: Command Type:None, gcode:M110, cmd: M110 N0, tags: set(['trigger:comm.start_print', 'source:job', 'trigger:comm.reset_line_numbers'])
+2020-01-20 07:24:34,884 Received from printer: line:ok
+
+2020-01-20 07:24:34,896 Queuing Command: Command Type:None, gcode:M201, cmd: M201 X500.00 Y500.00 Z100.00 E5000.00, tags: set(['source:file', 'filepos:338', 'fileline:2'])
+2020-01-20 07:24:34,897 Sent to printer: Command Type:None, gcode:M82, cmd: M82, tags: set(['fileline:1', 'source:file', 'filepos:267'])
+2020-01-20 07:24:34,903 Received from printer: line:ok
+
+2020-01-20 07:24:34,917 Queuing Command: Command Type:None, gcode:M203, cmd: M203 X500.00 Y500.00 Z10.00 E50.00, tags: set(['source:file', 'fileline:3', 'filepos:402'])
+2020-01-20 07:24:34,928 Printer event received:DisplayLayerProgress_heightChanged.
+2020-01-20 07:24:34,931 Sent to printer: Command Type:None, gcode:M201, cmd: M201 X500.00 Y500.00 Z100.00 E5000.00, tags: set(['source:file', 'filepos:338', 'fileline:2'])
+2020-01-20 07:24:34,960 Received from printer: line:ok
+
+2020-01-20 07:24:34,962 Queuing Command: Command Type:None, gcode:M204, cmd: M204 P500.00 R1000.00 T500.00, tags: set(['filepos:474', 'source:file', 'fileline:4'])
+2020-01-20 07:24:34,972 Sent to printer: Command Type:None, gcode:M203, cmd: M203 X500.00 Y500.00 Z10.00 E50.00, tags: set(['source:file', 'fileline:3', 'filepos:402'])
+2020-01-20 07:24:34,975 Printer event received:DisplayLayerProgress_heightChanged.
+2020-01-20 07:24:34,981 Received from printer: line:ok
+
+2020-01-20 07:24:34,986 Queuing Command: Command Type:None, gcode:M205, cmd: M205 X8.00 Y8.00 Z0.40 E5.00, tags: set(['filepos:516', 'source:file', 'fileline:5'])
+2020-01-20 07:24:34,992 Sent to printer: Command Type:None, gcode:M204, cmd: M204 P500.00 R1000.00 T500.00, tags: set(['filepos:474', 'source:file', 'fileline:4'])
+2020-01-20 07:24:34,999 Received from printer: line:ok
+
+2020-01-20 07:24:35,004 Queuing Command: Command Type:None, gcode:M220, cmd: M220 S100, tags: set(['source:file', 'filepos:543', 'fileline:6'])
+2020-01-20 07:24:35,037 Sent to printer: Command Type:None, gcode:M205, cmd: M205 X8.00 Y8.00 Z0.40 E5.00, tags: set(['filepos:516', 'source:file', 'fileline:5'])
+2020-01-20 07:24:35,038 Printer event received:DisplayLayerProgress_heightChanged.
+2020-01-20 07:24:35,043 Received from printer: line:ok
+
+2020-01-20 07:24:35,053 Queuing Command: Command Type:None, gcode:M221, cmd: M221 S100, tags: set(['source:file', 'filepos:570', 'fileline:7'])
+2020-01-20 07:24:35,053 Sent to printer: Command Type:None, gcode:M220, cmd: M220 S100, tags: set(['source:file', 'filepos:543', 'fileline:6'])
+2020-01-20 07:24:35,059 Received from printer: line:ok
+
+2020-01-20 07:24:35,067 Queuing Command: Command Type:None, gcode:M140, cmd: M140 S60, tags: set(['fileline:8', 'source:file', 'filepos:634'])
+2020-01-20 07:24:35,072 Sent to printer: Command Type:None, gcode:M221, cmd: M221 S100, tags: set(['source:file', 'filepos:570', 'fileline:7'])
+2020-01-20 07:24:35,077 Queuing Command: Command Type:None, gcode:M104, cmd: M104 S205 T0, tags: set(['fileline:9', 'source:file', 'filepos:677'])
+2020-01-20 07:24:35,096 Printer event received:Error.
+2020-01-20 07:24:35,110 Printer event received:UpdatedFiles.
+2020-01-20 07:24:35,124 Printer event received:UpdatedFiles.
+2020-01-20 07:24:35,156 Printer event received:Disconnected.
+2020-01-20 07:24:35,165 Starting render.
+2020-01-20 07:24:35,182 Reading snapshot metadata from /home/pi/.octoprint/data/octolapse/snapshots/4c63d6db-cd8a-4bfb-b77e-181e5034e04c/354def78-9eea-409a-ad23-ee966dfff4ba/metadata.csv
+2020-01-20 07:24:35,199 Printer disconnected.
+2020-01-20 07:24:35,207 Printer event received:PrinterStateChanged.
+2020-01-20 07:24:35,214 Found 0 images via a manual search.
+2020-01-20 07:24:35,217 insufficient-images: No snapshots were found for the 'Default Webcam' camera profile.
+2020-01-20 07:24:35,218 Completed rendering. JobId: 4c63d6db-cd8a-4bfb-b77e-181e5034e04c
+2020-01-20 07:24:35,221 Starting render.
+2020-01-20 07:24:35,225 Reading snapshot metadata from /home/pi/.octoprint/data/octolapse/snapshots/4c63d6db-cd8a-4bfb-b77e-181e5034e04c/ea5a14ee-859b-485c-9883-358cf9a4d869/metadata.csv
+2020-01-20 07:24:35,227 Found 0 images via a manual search.
+2020-01-20 07:24:35,230 insufficient-images: No snapshots were found for the 'DSLR' camera profile.
+2020-01-20 07:24:35,232 Completed rendering. JobId: 4c63d6db-cd8a-4bfb-b77e-181e5034e04c
+2020-01-20 07:24:35,264 Printer event received:MetadataStatisticsUpdated.
+2020-01-20 07:24:35,282 Printer event received:PrintFailed.
+2020-01-20 07:24:35,282 Print failed.
+2020-01-20 07:26:22,809 Printer event received:Connecting.
+2020-01-20 07:26:22,889 Printer event received:PrinterStateChanged.
+2020-01-20 07:26:22,933 Printer event received:PrinterStateChanged.
+2020-01-20 07:26:22,945 Printer event received:PrinterStateChanged.
+2020-01-20 07:26:24,253 Printer event received:PrinterStateChanged.
+2020-01-20 07:26:24,328 Printer event received:Connected.
+2020-01-20 07:26:26,281 Printer event received:FirmwareData.
+2020-01-20 07:26:26,868 Printer event received:UpdatedFiles.
+2020-01-20 07:26:26,876 Printer event received:UpdatedFiles.
+2020-01-20 07:26:32,973 Printer event received:FileSelected.
+2020-01-20 07:26:32,977 Printer event received:PrinterStateChanged.
+2020-01-20 07:26:32,994 Printer event received:PrintStarted.
+2020-01-20 07:26:32,996 Printer event received:DisplayLayerProgress_progressChanged.
+2020-01-20 07:26:33,017 Print Start Detected.  Command: M110 N0, Tags:set(['trigger:comm.start_print', 'source:job', 'trigger:comm.reset_line_numbers'])
+2020-01-20 07:26:33,018 Print start detected, attempting to start timelapse.
+2020-01-20 07:26:33,124 Camera settings applied without error.
+2020-01-20 07:26:33,125 Camera settings applied without error.
+2020-01-20 07:26:33,137 Extruder Triggers - OnExtrudingStart:True, OnExtruding:True, OnPrimed:True, OnRetractingStart:None OnRetracting:None, OnPartiallyRetracted:False, OnRetracted:True, ONDetractingStart:False, OnDetracting:False, OnDetracted:False
+2020-01-20 07:26:33,138 Creating Layer Trigger - TriggerHeight:0.0 (none = layer change), RequiresZHop:False
+2020-01-20 07:26:33,143 Print Started - Timelapse Started.
+2020-01-20 07:26:33,147 Queuing Command: Command Type:None, gcode:M110, cmd: M110 N0, tags: set(['trigger:comm.start_print', 'source:job', 'trigger:comm.reset_line_numbers'])
+2020-01-20 07:26:33,167 Queuing Command: Command Type:None, gcode:M82, cmd: M82, tags: set(['fileline:1', 'source:file', 'filepos:270'])
+2020-01-20 07:26:33,170 Received M82 - Switching Extruder to Absolute Coordinates
+2020-01-20 07:26:33,172 Extruder Changed: E:0.0, Retraction:0 IsExtruding:False-False, IsExtrudingStart:False-False, IsPrimed:False-True, IsRetractingStart:False-False, IsRetracting:False-False, IsPartiallyRetracted:False-False, IsRetracted:False-False, IsDetractingStart:False-False, IsDetracting:False-False, IsDetracted:False-False
+2020-01-20 07:26:33,178 Printer event received:PrinterStateChanged.
+2020-01-20 07:26:33,193 Sent to printer: Command Type:None, gcode:M110, cmd: M110 N0, tags: set(['trigger:comm.start_print', 'source:job', 'trigger:comm.reset_line_numbers'])
+2020-01-20 07:26:33,200 Received from printer: line:ok
+
+2020-01-20 07:26:33,204 Queuing Command: Command Type:None, gcode:M201, cmd: M201 X500.00 Y500.00 Z100.00 E5000.00, tags: set(['source:file', 'fileline:2', 'filepos:341'])
+2020-01-20 07:26:33,212 Sent to printer: Command Type:None, gcode:M82, cmd: M82, tags: set(['fileline:1', 'source:file', 'filepos:270'])
+2020-01-20 07:26:33,219 Received from printer: line:ok
+
+2020-01-20 07:26:33,225 Queuing Command: Command Type:None, gcode:M203, cmd: M203 X500.00 Y500.00 Z10.00 E50.00, tags: set(['filepos:405', 'source:file', 'fileline:3'])
+2020-01-20 07:26:33,262 Printer event received:DisplayLayerProgress_heightChanged.
+2020-01-20 07:26:33,264 Sent to printer: Command Type:None, gcode:M201, cmd: M201 X500.00 Y500.00 Z100.00 E5000.00, tags: set(['source:file', 'fileline:2', 'filepos:341'])
+2020-01-20 07:26:33,272 Received from printer: line:ok
+
+2020-01-20 07:26:33,276 Queuing Command: Command Type:None, gcode:M204, cmd: M204 P500.00 R1000.00 T500.00, tags: set(['source:file', 'filepos:477', 'fileline:4'])
+2020-01-20 07:26:33,299 Printer event received:DisplayLayerProgress_heightChanged.
+2020-01-20 07:26:33,303 Sent to printer: Command Type:None, gcode:M203, cmd: M203 X500.00 Y500.00 Z10.00 E50.00, tags: set(['filepos:405', 'source:file', 'fileline:3'])
+2020-01-20 07:26:33,308 Received from printer: line:ok
+
+2020-01-20 07:26:33,313 Queuing Command: Command Type:None, gcode:M205, cmd: M205 X8.00 Y8.00 Z0.40 E5.00, tags: set(['source:file', 'fileline:5', 'filepos:519'])
+2020-01-20 07:26:33,321 Sent to printer: Command Type:None, gcode:M204, cmd: M204 P500.00 R1000.00 T500.00, tags: set(['source:file', 'filepos:477', 'fileline:4'])
+2020-01-20 07:26:33,332 Received from printer: line:ok
+
+2020-01-20 07:26:33,335 Queuing Command: Command Type:None, gcode:M220, cmd: M220 S100, tags: set(['source:file', 'fileline:6', 'filepos:546'])
+2020-01-20 07:26:33,357 Sent to printer: Command Type:None, gcode:M205, cmd: M205 X8.00 Y8.00 Z0.40 E5.00, tags: set(['source:file', 'fileline:5', 'filepos:519'])
+2020-01-20 07:26:33,362 Printer event received:DisplayLayerProgress_heightChanged.
+2020-01-20 07:26:33,366 Received from printer: line:ok
+
+2020-01-20 07:26:33,371 Queuing Command: Command Type:None, gcode:M221, cmd: M221 S100, tags: set(['source:file', 'filepos:573', 'fileline:7'])
+2020-01-20 07:26:33,375 Sent to printer: Command Type:None, gcode:M220, cmd: M220 S100, tags: set(['source:file', 'fileline:6', 'filepos:546'])
+2020-01-20 07:26:33,383 Received from printer: line:ok
+
+2020-01-20 07:26:33,386 Queuing Command: Command Type:None, gcode:M140, cmd: M140 S60, tags: set(['fileline:8', 'filepos:637', 'source:file'])
+2020-01-20 07:26:33,391 Sent to printer: Command Type:None, gcode:M221, cmd: M221 S100, tags: set(['source:file', 'filepos:573', 'fileline:7'])
+2020-01-20 07:26:33,397 Queuing Command: Command Type:None, gcode:M104, cmd: M104 S195 T0, tags: set(['fileline:9', 'source:file', 'filepos:680'])
+2020-01-20 07:26:33,409 Printer event received:Error.
+2020-01-20 07:26:33,420 Printer event received:UpdatedFiles.
+2020-01-20 07:26:33,428 Printer event received:UpdatedFiles.
+2020-01-20 07:26:33,442 Printer event received:Disconnected.
+2020-01-20 07:26:33,448 Starting render.
+2020-01-20 07:26:33,449 Reading snapshot metadata from /home/pi/.octoprint/data/octolapse/snapshots/fde65bd9-d482-4b3b-a213-9dc191cdc304/354def78-9eea-409a-ad23-ee966dfff4ba/metadata.csv
+2020-01-20 07:26:33,458 Found 0 images via a manual search.
+2020-01-20 07:26:33,461 Printer disconnected.
+2020-01-20 07:26:33,462 insufficient-images: No snapshots were found for the 'Default Webcam' camera profile.
+2020-01-20 07:26:33,469 Completed rendering. JobId: fde65bd9-d482-4b3b-a213-9dc191cdc304
+2020-01-20 07:26:33,472 Starting render.
+2020-01-20 07:26:33,478 Printer event received:PrinterStateChanged.
+2020-01-20 07:26:33,480 Reading snapshot metadata from /home/pi/.octoprint/data/octolapse/snapshots/fde65bd9-d482-4b3b-a213-9dc191cdc304/ea5a14ee-859b-485c-9883-358cf9a4d869/metadata.csv
+2020-01-20 07:26:33,482 Found 0 images via a manual search.
+2020-01-20 07:26:33,483 insufficient-images: No snapshots were found for the 'DSLR' camera profile.
+2020-01-20 07:26:33,495 Completed rendering. JobId: fde65bd9-d482-4b3b-a213-9dc191cdc304
+2020-01-20 07:26:33,637 Printer event received:MetadataStatisticsUpdated.
+2020-01-20 07:26:33,726 Printer event received:PrintFailed.
+2020-01-20 07:26:33,733 Print failed.
+2020-01-20 07:27:17,982 Printer event received:Connecting.
+2020-01-20 07:27:18,093 Printer event received:PrinterStateChanged.
+2020-01-20 07:27:18,133 Printer event received:PrinterStateChanged.
+2020-01-20 07:27:20,826 Printer event received:PrinterStateChanged.
+2020-01-20 07:27:20,882 Printer event received:Connected.
+2020-01-20 07:27:20,912 Printer event received:FirmwareData.
+2020-01-20 07:27:21,490 Printer event received:UpdatedFiles.
+2020-01-20 07:27:21,500 Printer event received:UpdatedFiles.
+2020-01-20 07:27:23,629 Printer event received:FileSelected.
+2020-01-20 07:27:23,634 Printer event received:PrinterStateChanged.
+2020-01-20 07:27:23,662 Printer event received:PrintStarted.
+2020-01-20 07:27:23,662 Printer event received:DisplayLayerProgress_progressChanged.
+2020-01-20 07:27:23,689 Print Start Detected.  Command: M110 N0, Tags:set(['trigger:comm.start_print', 'source:job', 'trigger:comm.reset_line_numbers'])
+2020-01-20 07:27:23,691 Print start detected, attempting to start timelapse.
+2020-01-20 07:27:23,731 Camera settings applied without error.
+2020-01-20 07:27:23,732 Camera settings applied without error.
+2020-01-20 07:27:23,747 Extruder Triggers - OnExtrudingStart:True, OnExtruding:True, OnPrimed:True, OnRetractingStart:None OnRetracting:None, OnPartiallyRetracted:False, OnRetracted:True, ONDetractingStart:False, OnDetracting:False, OnDetracted:False
+2020-01-20 07:27:23,748 Creating Layer Trigger - TriggerHeight:0.0 (none = layer change), RequiresZHop:False
+2020-01-20 07:27:23,754 Print Started - Timelapse Started.
+2020-01-20 07:27:23,756 Queuing Command: Command Type:None, gcode:M110, cmd: M110 N0, tags: set(['trigger:comm.start_print', 'source:job', 'trigger:comm.reset_line_numbers'])
+2020-01-20 07:27:23,774 Queuing Command: Command Type:None, gcode:M82, cmd: M82, tags: set(['fileline:1', 'source:file', 'filepos:270'])
+2020-01-20 07:27:23,779 Received M82 - Switching Extruder to Absolute Coordinates
+2020-01-20 07:27:23,782 Extruder Changed: E:0.0, Retraction:0 IsExtruding:False-False, IsExtrudingStart:False-False, IsPrimed:False-True, IsRetractingStart:False-False, IsRetracting:False-False, IsPartiallyRetracted:False-False, IsRetracted:False-False, IsDetractingStart:False-False, IsDetracting:False-False, IsDetracted:False-False
+2020-01-20 07:27:23,792 Sent to printer: Command Type:None, gcode:M110, cmd: M110 N0, tags: set(['trigger:comm.start_print', 'source:job', 'trigger:comm.reset_line_numbers'])
+2020-01-20 07:27:23,813 Received from printer: line:ok
+
+2020-01-20 07:27:23,814 Queuing Command: Command Type:None, gcode:M201, cmd: M201 X500.00 Y500.00 Z100.00 E5000.00, tags: set(['source:file', 'fileline:2', 'filepos:341'])
+2020-01-20 07:27:23,820 Sent to printer: Command Type:None, gcode:M82, cmd: M82, tags: set(['fileline:1', 'source:file', 'filepos:270'])
+2020-01-20 07:27:23,820 Received from printer: line:ok
+
+2020-01-20 07:27:23,822 Queuing Command: Command Type:None, gcode:M203, cmd: M203 X500.00 Y500.00 Z10.00 E50.00, tags: set(['filepos:405', 'source:file', 'fileline:3'])
+2020-01-20 07:27:23,831 Printer event received:PrinterStateChanged.
+2020-01-20 07:27:23,856 Printer event received:DisplayLayerProgress_heightChanged.
+2020-01-20 07:27:23,858 Sent to printer: Command Type:None, gcode:M201, cmd: M201 X500.00 Y500.00 Z100.00 E5000.00, tags: set(['source:file', 'fileline:2', 'filepos:341'])
+2020-01-20 07:27:23,880 Received from printer: line:ok
+
+2020-01-20 07:27:23,881 Queuing Command: Command Type:None, gcode:M204, cmd: M204 P500.00 R1000.00 T500.00, tags: set(['source:file', 'filepos:477', 'fileline:4'])
+2020-01-20 07:27:23,891 Printer event received:DisplayLayerProgress_heightChanged.
+2020-01-20 07:27:23,897 Sent to printer: Command Type:None, gcode:M203, cmd: M203 X500.00 Y500.00 Z10.00 E50.00, tags: set(['filepos:405', 'source:file', 'fileline:3'])
+2020-01-20 07:27:23,903 Received from printer: line:ok
+
+2020-01-20 07:27:23,908 Queuing Command: Command Type:None, gcode:M205, cmd: M205 X8.00 Y8.00 Z0.40 E5.00, tags: set(['source:file', 'fileline:5', 'filepos:519'])
+2020-01-20 07:27:23,923 Sent to printer: Command Type:None, gcode:M204, cmd: M204 P500.00 R1000.00 T500.00, tags: set(['source:file', 'filepos:477', 'fileline:4'])
+2020-01-20 07:27:23,924 Received from printer: line:ok
+
+2020-01-20 07:27:23,928 Queuing Command: Command Type:None, gcode:M220, cmd: M220 S100, tags: set(['source:file', 'fileline:6', 'filepos:546'])
+2020-01-20 07:27:23,947 Printer event received:DisplayLayerProgress_heightChanged.
+2020-01-20 07:27:23,951 Sent to printer: Command Type:None, gcode:M205, cmd: M205 X8.00 Y8.00 Z0.40 E5.00, tags: set(['source:file', 'fileline:5', 'filepos:519'])
+2020-01-20 07:27:23,969 Received from printer: line:ok
+
+2020-01-20 07:27:23,969 Queuing Command: Command Type:None, gcode:M221, cmd: M221 S100, tags: set(['source:file', 'filepos:573', 'fileline:7'])
+2020-01-20 07:27:23,970 Sent to printer: Command Type:None, gcode:M220, cmd: M220 S100, tags: set(['source:file', 'fileline:6', 'filepos:546'])
+2020-01-20 07:27:23,995 Received from printer: line:ok
+
+2020-01-20 07:27:23,996 Queuing Command: Command Type:None, gcode:M140, cmd: M140 S60, tags: set(['fileline:8', 'filepos:637', 'source:file'])
+2020-01-20 07:27:23,997 Sent to printer: Command Type:None, gcode:M221, cmd: M221 S100, tags: set(['source:file', 'filepos:573', 'fileline:7'])
+2020-01-20 07:27:24,017 Queuing Command: Command Type:None, gcode:M104, cmd: M104 S195 T0, tags: set(['fileline:9', 'source:file', 'filepos:680'])
+2020-01-20 07:27:24,022 Printer event received:Error.
+2020-01-20 07:27:24,031 Printer event received:UpdatedFiles.
+2020-01-20 07:27:24,044 Printer event received:UpdatedFiles.
+2020-01-20 07:27:24,056 Printer event received:Disconnected.
+2020-01-20 07:27:24,068 Starting render.
+2020-01-20 07:27:24,079 Printer disconnected.
+2020-01-20 07:27:24,083 Reading snapshot metadata from /home/pi/.octoprint/data/octolapse/snapshots/bf16a08d-d610-44c5-96a4-d6e561a798de/354def78-9eea-409a-ad23-ee966dfff4ba/metadata.csv
+2020-01-20 07:27:24,089 Found 0 images via a manual search.
+2020-01-20 07:27:24,091 insufficient-images: No snapshots were found for the 'Default Webcam' camera profile.
+2020-01-20 07:27:24,092 Completed rendering. JobId: bf16a08d-d610-44c5-96a4-d6e561a798de
+2020-01-20 07:27:24,096 Printer event received:PrinterStateChanged.
+2020-01-20 07:27:24,101 Starting render.
+2020-01-20 07:27:24,102 Reading snapshot metadata from /home/pi/.octoprint/data/octolapse/snapshots/bf16a08d-d610-44c5-96a4-d6e561a798de/ea5a14ee-859b-485c-9883-358cf9a4d869/metadata.csv
+2020-01-20 07:27:24,105 Found 0 images via a manual search.
+2020-01-20 07:27:24,107 insufficient-images: No snapshots were found for the 'DSLR' camera profile.
+2020-01-20 07:27:24,108 Completed rendering. JobId: bf16a08d-d610-44c5-96a4-d6e561a798de
+2020-01-20 07:27:24,297 Printer event received:MetadataStatisticsUpdated.
+2020-01-20 07:27:24,328 Printer event received:PrintFailed.
+2020-01-20 07:27:24,329 Print failed.
+2020-01-20 07:27:31,041 Saving Settings.
+2020-01-20 07:27:31,133 Settings saved.
+2020-01-20 07:27:33,257 Printer event received:Connecting.
+2020-01-20 07:27:33,292 Printer event received:PrinterStateChanged.
+2020-01-20 07:27:33,305 Printer event received:PrinterStateChanged.
+2020-01-20 07:27:37,100 Printer event received:PrinterStateChanged.
+2020-01-20 07:27:37,160 Printer event received:Connected.
+2020-01-20 07:27:37,171 Printer event received:FirmwareData.
+2020-01-20 07:27:37,628 Saving Settings.
+2020-01-20 07:27:37,728 Printer event received:UpdatedFiles.
+2020-01-20 07:27:37,741 Printer event received:UpdatedFiles.
+2020-01-20 07:27:37,764 Settings saved.
+2020-01-20 07:27:47,556 Printer event received:FileSelected.
+2020-01-20 07:27:47,560 Printer event received:PrinterStateChanged.
+2020-01-20 07:27:47,579 Printer event received:PrintStarted.
+2020-01-20 07:27:47,580 Printer event received:DisplayLayerProgress_progressChanged.
+2020-01-20 07:27:47,653 Printer event received:PrinterStateChanged.
+2020-01-20 07:27:47,685 Printer event received:DisplayLayerProgress_heightChanged.
+2020-01-20 07:27:47,720 Printer event received:DisplayLayerProgress_heightChanged.
+2020-01-20 07:27:47,783 Printer event received:DisplayLayerProgress_heightChanged.
+2020-01-20 07:27:47,839 Printer event received:Home.
+2020-01-20 07:27:47,840 homing to payload:None.
+2020-01-20 07:28:02,318 Printer event received:PrintCancelling.
+2020-01-20 07:28:02,319 Print cancelling.
+2020-01-20 07:28:02,331 Printer event received:PrinterStateChanged.
+2020-01-20 07:28:02,355 Printer event received:PrintCancelled.
+2020-01-20 07:28:02,356 Print cancelled.
+2020-01-20 07:28:02,441 Printer event received:MetadataStatisticsUpdated.
+2020-01-20 07:28:02,460 Printer event received:PrintFailed.
+2020-01-20 07:28:02,461 Print failed.
+2020-01-20 07:28:27,585 Printer event received:PositionUpdate.
+2020-01-20 07:28:27,646 Printer event received:Home.
+2020-01-20 07:28:27,652 homing to payload:None.
+2020-01-20 07:28:47,570 Printer event received:SettingsUpdated.
+2020-01-20 07:29:01,730 Printer event received:PositionUpdate.
+2020-01-20 07:29:01,798 Printer event received:DisplayLayerProgress_fanspeedChanged.
+2020-01-20 07:29:01,822 Printer event received:PrinterStateChanged.
+2020-01-20 07:29:16,906 Printer event received:SettingsUpdated.
+2020-01-20 07:29:37,730 Printer event received:plugin_pluginmanager_disable_plugin.
+2020-01-20 07:29:43,881 Printer event received:plugin_pluginmanager_disable_plugin.
+2020-01-20 07:29:53,787 Printer event received:plugin_pluginmanager_disable_plugin.
+2020-01-20 07:30:05,980 Printer event received:Shutdown.
+2020-01-20 07:30:16,235 Settings loaded.
+2020-01-20 07:30:16,236 Setting octolapse camera address to http://127.0.0.1:8080/.
+2020-01-20 07:30:16,241 Setting octolapse camera snapshot template to {camera_address}?action=snapshot.
+2020-01-20 07:30:16,245 Octolapse - loaded and active.
+2020-01-20 07:30:18,057 Printer event received:ClientOpened.
+2020-01-20 07:30:18,091 Printer event received:ClientOpened.
+2020-01-20 07:30:18,439 Octolapse - is loading template configurations.
+2020-01-20 07:30:40,025 Printer event received:ClientClosed.
+2020-01-20 07:30:45,729 Printer event received:ClientOpened.
+2020-01-20 07:30:51,265 Printer event received:Connecting.
+2020-01-20 07:30:51,381 Printer event received:PrinterStateChanged.
+2020-01-20 07:30:51,472 Printer event received:PrinterStateChanged.
+2020-01-20 07:30:51,518 Printer event received:PrinterStateChanged.
+2020-01-20 07:30:52,723 Printer event received:PrinterStateChanged.
+2020-01-20 07:30:52,805 Printer event received:Connected.
+2020-01-20 07:30:54,115 Printer event received:Home.
+2020-01-20 07:30:54,116 homing to payload:None.
+2020-01-20 07:30:54,766 Printer event received:FirmwareData.
+2020-01-20 07:31:31,366 Printer event received:PositionUpdate.
+2020-01-20 07:32:01,078 Printer event received:SettingsUpdated.
+2020-01-20 07:32:02,989 Printer event received:Home.
+2020-01-20 07:32:02,996 homing to payload:None.
+2020-01-20 07:32:29,366 Printer event received:SettingsUpdated.
+2020-01-20 07:33:06,186 Printer event received:Home.
+2020-01-20 07:33:06,188 homing to payload:None.
+2020-01-20 07:33:31,256 Printer event received:SettingsUpdated.
+2020-01-20 07:34:14,316 Printer event received:PositionUpdate.
+2020-01-20 07:34:15,218 Printer event received:UpdatedFiles.
+2020-01-20 07:34:15,263 Printer event received:UpdatedFiles.
+2020-01-20 07:34:15,295 Printer event received:SettingsUpdated.
+2020-01-20 07:34:16,195 Printer event received:SettingsUpdated.
+2020-01-20 07:34:51,042 Printer event received:PositionUpdate.
+2020-01-20 07:37:34,002 Printer event received:PositionUpdate.
+2020-01-20 07:37:34,849 Printer event received:SettingsUpdated.
+2020-01-20 07:37:35,540 Printer event received:SettingsUpdated.
+2020-01-20 07:38:07,882 Printer event received:PositionUpdate.
+2020-01-20 07:39:13,877 Saving Settings.
+2020-01-20 07:39:13,959 Settings saved.
+2020-01-20 07:39:22,819 Saving Settings.
+2020-01-20 07:39:22,924 Settings saved.
+2020-01-20 07:39:24,196 Saving Settings.
+2020-01-20 07:39:24,264 Settings saved.
+2020-01-20 07:39:25,265 Saving Settings.
+2020-01-20 07:39:25,360 Settings saved.
+2020-01-20 07:39:25,930 Saving Settings.
+2020-01-20 07:39:25,972 Settings saved.
+2020-01-20 07:39:37,246 Printer event received:FileSelected.
+2020-01-20 07:39:37,289 Printer event received:PrinterStateChanged.
+2020-01-20 07:39:37,311 Printer event received:PrintStarted.
+2020-01-20 07:39:45,079 Saving Settings.
+2020-01-20 07:39:45,133 Settings saved.
+2020-01-20 07:39:48,950 Printer event received:PrintCancelling.
+2020-01-20 07:39:48,955 Print cancelling.
+2020-01-20 07:39:48,973 Printer event received:PrinterStateChanged.
+2020-01-20 07:39:49,011 Printer event received:PrintCancelled.
+2020-01-20 07:39:49,014 Print cancelled.
+2020-01-20 07:39:49,120 Printer event received:MetadataStatisticsUpdated.
+2020-01-20 07:39:49,123 Printer event received:PrintFailed.
+2020-01-20 07:39:49,124 Print failed.
+2020-01-20 07:39:56,776 Saving Settings.
+2020-01-20 07:39:56,847 Settings saved.
+2020-01-20 07:39:57,155 Saving Settings.
+2020-01-20 07:39:57,194 Settings saved.
+2020-01-20 07:39:57,632 Saving Settings.
+2020-01-20 07:39:57,725 Settings saved.
+2020-01-20 07:39:58,088 Saving Settings.
+2020-01-20 07:39:58,128 Settings saved.
+2020-01-20 07:40:03,818 Saving Settings.
+2020-01-20 07:40:03,900 Settings saved.
+2020-01-20 07:40:07,215 Saving Settings.
+2020-01-20 07:40:07,315 Settings saved.
+2020-01-20 07:40:33,221 Saving Settings.
+2020-01-20 07:40:33,261 Settings saved.
+2020-01-20 07:40:50,800 Printer event received:PositionUpdate.
+2020-01-20 07:40:50,839 Printer event received:PrinterStateChanged.
+2020-01-20 07:40:50,958 Printer event received:PrinterStateChanged.
+2020-01-20 07:40:51,607 Printer event received:SettingsUpdated.
+2020-01-20 07:40:52,398 Printer event received:SettingsUpdated.
+2020-01-20 07:40:57,392 Printer event received:PrinterStateChanged.
+2020-01-20 07:40:57,409 Printer event received:PrintStarted.
+2020-01-20 07:40:57,446 Print Start Detected.  Command: M110 N0, Tags:set(['trigger:comm.start_print', 'source:job', 'trigger:comm.reset_line_numbers'])
+2020-01-20 07:40:57,452 Print start detected, attempting to start timelapse.
+2020-01-20 07:40:57,456 Camera settings applied without error.
+2020-01-20 07:40:57,458 Camera settings applied without error.
+2020-01-20 07:40:57,475 Extruder Triggers - OnExtrudingStart:True, OnExtruding:True, OnPrimed:True, OnRetractingStart:None OnRetracting:None, OnPartiallyRetracted:False, OnRetracted:True, ONDetractingStart:False, OnDetracting:False, OnDetracted:False
+2020-01-20 07:40:57,477 Creating Layer Trigger - TriggerHeight:0.4 (none = layer change), RequiresZHop:False
+2020-01-20 07:40:57,499 Print Started - Timelapse Started.
+2020-01-20 07:40:57,515 Queuing Command: Command Type:None, gcode:M110, cmd: M110 N0, tags: set(['trigger:comm.start_print', 'source:job', 'trigger:comm.reset_line_numbers'])
+2020-01-20 07:40:57,520 Printer event received:PrinterStateChanged.
+2020-01-20 07:40:57,534 Queuing Command: Command Type:None, gcode:M82, cmd: M82, tags: set(['fileline:1', 'source:file', 'filepos:267'])
+2020-01-20 07:40:57,536 Received M82 - Switching Extruder to Absolute Coordinates
+2020-01-20 07:40:57,539 Extruder Changed: E:0.0, Retraction:0 IsExtruding:False-False, IsExtrudingStart:False-False, IsPrimed:False-True, IsRetractingStart:False-False, IsRetracting:False-False, IsPartiallyRetracted:False-False, IsRetracted:False-False, IsDetractingStart:False-False, IsDetracting:False-False, IsDetracted:False-False
+2020-01-20 07:40:57,556 Sent to printer: Command Type:None, gcode:M110, cmd: M110 N0, tags: set(['trigger:comm.start_print', 'source:job', 'trigger:comm.reset_line_numbers'])
+2020-01-20 07:40:57,563 Received from printer: line:ok
+
+2020-01-20 07:40:57,564 Queuing Command: Command Type:None, gcode:M201, cmd: M201 X500.00 Y500.00 Z100.00 E5000.00, tags: set(['source:file', 'filepos:338', 'fileline:2'])
+2020-01-20 07:40:57,569 Sent to printer: Command Type:None, gcode:M82, cmd: M82, tags: set(['fileline:1', 'source:file', 'filepos:267'])
+2020-01-20 07:40:57,577 Received from printer: line:ok
+
+2020-01-20 07:40:57,579 Queuing Command: Command Type:None, gcode:M203, cmd: M203 X500.00 Y500.00 Z10.00 E50.00, tags: set(['source:file', 'fileline:3', 'filepos:402'])
+2020-01-20 07:40:57,585 Sent to printer: Command Type:None, gcode:M201, cmd: M201 X500.00 Y500.00 Z100.00 E5000.00, tags: set(['source:file', 'filepos:338', 'fileline:2'])
+2020-01-20 07:40:57,595 Received from printer: line:ok
+
+2020-01-20 07:40:57,599 Queuing Command: Command Type:None, gcode:M204, cmd: M204 P500.00 R1000.00 T500.00, tags: set(['filepos:474', 'source:file', 'fileline:4'])
+2020-01-20 07:40:57,602 Sent to printer: Command Type:None, gcode:M203, cmd: M203 X500.00 Y500.00 Z10.00 E50.00, tags: set(['source:file', 'fileline:3', 'filepos:402'])
+2020-01-20 07:40:57,611 Received from printer: line:ok
+
+2020-01-20 07:40:57,620 Queuing Command: Command Type:None, gcode:M205, cmd: M205 X8.00 Y8.00 Z0.40 E5.00, tags: set(['filepos:516', 'source:file', 'fileline:5'])
+2020-01-20 07:40:57,623 Sent to printer: Command Type:None, gcode:M204, cmd: M204 P500.00 R1000.00 T500.00, tags: set(['filepos:474', 'source:file', 'fileline:4'])
+2020-01-20 07:40:57,626 Received from printer: line:ok
+
+2020-01-20 07:40:57,630 Queuing Command: Command Type:None, gcode:M220, cmd: M220 S100, tags: set(['source:file', 'filepos:543', 'fileline:6'])
+2020-01-20 07:40:57,634 Sent to printer: Command Type:None, gcode:M205, cmd: M205 X8.00 Y8.00 Z0.40 E5.00, tags: set(['filepos:516', 'source:file', 'fileline:5'])
+2020-01-20 07:40:57,650 Received from printer: line:ok
+
+2020-01-20 07:40:57,651 Queuing Command: Command Type:None, gcode:M221, cmd: M221 S100, tags: set(['source:file', 'filepos:570', 'fileline:7'])
+2020-01-20 07:40:57,655 Sent to printer: Command Type:None, gcode:M220, cmd: M220 S100, tags: set(['source:file', 'filepos:543', 'fileline:6'])
+2020-01-20 07:40:57,663 Received from printer: line:ok
+
+2020-01-20 07:40:57,673 Queuing Command: Command Type:None, gcode:M140, cmd: M140 S60, tags: set(['fileline:8', 'source:file', 'filepos:634'])
+2020-01-20 07:40:57,676 Sent to printer: Command Type:None, gcode:M221, cmd: M221 S100, tags: set(['source:file', 'filepos:570', 'fileline:7'])
+2020-01-20 07:40:57,682 Queuing Command: Command Type:None, gcode:M104, cmd: M104 S205 T0, tags: set(['fileline:9', 'source:file', 'filepos:677'])
+2020-01-20 07:40:57,693 Printer event received:Error.
+2020-01-20 07:40:57,696 Printer event received:UpdatedFiles.
+2020-01-20 07:40:57,699 Printer event received:UpdatedFiles.
+2020-01-20 07:40:57,722 Printer event received:Disconnected.
+2020-01-20 07:40:57,729 Starting render.
+2020-01-20 07:40:57,730 Reading snapshot metadata from /home/pi/.octoprint/data/octolapse/snapshots/cf73af81-7658-4ea4-91bb-901ba4c9270c/ea5a14ee-859b-485c-9883-358cf9a4d869/metadata.csv
+2020-01-20 07:40:57,737 Printer disconnected.
+2020-01-20 07:40:57,738 Found 0 images via a manual search.
+2020-01-20 07:40:57,740 Printer event received:PrinterStateChanged.
+2020-01-20 07:40:57,744 insufficient-images: No snapshots were found for the 'DSLR' camera profile.
+2020-01-20 07:40:57,752 Completed rendering. JobId: cf73af81-7658-4ea4-91bb-901ba4c9270c
+2020-01-20 07:40:58,025 Printer event received:MetadataStatisticsUpdated.
+2020-01-20 07:40:58,026 Printer event received:PrintFailed.
+2020-01-20 07:40:58,026 Print failed.
+2020-01-20 07:41:11,825 Saving Settings.
+2020-01-20 07:41:11,878 Settings saved.
+2020-01-20 07:41:12,461 Saving Settings.
+2020-01-20 07:41:12,503 Settings saved.
+2020-01-20 07:41:18,713 Printer event received:Connecting.
+2020-01-20 07:41:18,857 Printer event received:PrinterStateChanged.
+2020-01-20 07:41:18,858 Printer event received:PrinterStateChanged.
+2020-01-20 07:41:22,650 Printer event received:PrinterStateChanged.
+2020-01-20 07:41:22,657 Printer event received:Connected.
+2020-01-20 07:41:22,696 Printer event received:FirmwareData.
+2020-01-20 07:41:23,248 Printer event received:UpdatedFiles.
+2020-01-20 07:41:23,253 Printer event received:UpdatedFiles.
+2020-01-20 07:41:27,884 Printer event received:FileSelected.
+2020-01-20 07:41:27,896 Printer event received:PrinterStateChanged.
+2020-01-20 07:41:27,907 Printer event received:PrintStarted.
+2020-01-20 07:41:27,927 Print Start Detected.  Command: M110 N0, Tags:set(['trigger:comm.start_print', 'source:job', 'trigger:comm.reset_line_numbers'])
+2020-01-20 07:41:27,934 Print start detected, attempting to start timelapse.
+2020-01-20 07:41:28,038 Camera settings applied without error.
+2020-01-20 07:41:28,040 Camera settings applied without error.
+2020-01-20 07:41:28,047 Extruder Triggers - OnExtrudingStart:True, OnExtruding:True, OnPrimed:True, OnRetractingStart:None OnRetracting:None, OnPartiallyRetracted:False, OnRetracted:True, ONDetractingStart:False, OnDetracting:False, OnDetracted:False
+2020-01-20 07:41:28,048 Creating Layer Trigger - TriggerHeight:0.4 (none = layer change), RequiresZHop:False
+2020-01-20 07:41:28,055 Print Started - Timelapse Started.
+2020-01-20 07:41:28,056 Queuing Command: Command Type:None, gcode:M110, cmd: M110 N0, tags: set(['trigger:comm.start_print', 'source:job', 'trigger:comm.reset_line_numbers'])
+2020-01-20 07:41:28,073 Printer event received:PrinterStateChanged.
+2020-01-20 07:41:28,077 Queuing Command: Command Type:None, gcode:M82, cmd: M82, tags: set(['fileline:1', 'source:file', 'filepos:267'])
+2020-01-20 07:41:28,078 Received M82 - Switching Extruder to Absolute Coordinates
+2020-01-20 07:41:28,079 Extruder Changed: E:0.0, Retraction:0 IsExtruding:False-False, IsExtrudingStart:False-False, IsPrimed:False-True, IsRetractingStart:False-False, IsRetracting:False-False, IsPartiallyRetracted:False-False, IsRetracted:False-False, IsDetractingStart:False-False, IsDetracting:False-False, IsDetracted:False-False
+2020-01-20 07:41:28,086 Sent to printer: Command Type:None, gcode:M110, cmd: M110 N0, tags: set(['trigger:comm.start_print', 'source:job', 'trigger:comm.reset_line_numbers'])
+2020-01-20 07:41:28,091 Received from printer: line:ok
+
+2020-01-20 07:41:28,097 Queuing Command: Command Type:None, gcode:M201, cmd: M201 X500.00 Y500.00 Z100.00 E5000.00, tags: set(['source:file', 'filepos:338', 'fileline:2'])
+2020-01-20 07:41:28,102 Sent to printer: Command Type:None, gcode:M82, cmd: M82, tags: set(['fileline:1', 'source:file', 'filepos:267'])
+2020-01-20 07:41:28,106 Received from printer: line:ok
+
+2020-01-20 07:41:28,111 Queuing Command: Command Type:None, gcode:M203, cmd: M203 X500.00 Y500.00 Z10.00 E50.00, tags: set(['source:file', 'fileline:3', 'filepos:402'])
+2020-01-20 07:41:28,116 Sent to printer: Command Type:None, gcode:M201, cmd: M201 X500.00 Y500.00 Z100.00 E5000.00, tags: set(['source:file', 'filepos:338', 'fileline:2'])
+2020-01-20 07:41:28,134 Received from printer: line:ok
+
+2020-01-20 07:41:28,141 Sent to printer: Command Type:None, gcode:M203, cmd: M203 X500.00 Y500.00 Z10.00 E50.00, tags: set(['source:file', 'fileline:3', 'filepos:402'])
+2020-01-20 07:41:28,142 Queuing Command: Command Type:None, gcode:M204, cmd: M204 P500.00 R1000.00 T500.00, tags: set(['filepos:474', 'source:file', 'fileline:4'])
+2020-01-20 07:41:28,147 Received from printer: line:ok
+
+2020-01-20 07:41:28,153 Queuing Command: Command Type:None, gcode:M205, cmd: M205 X8.00 Y8.00 Z0.40 E5.00, tags: set(['filepos:516', 'source:file', 'fileline:5'])
+2020-01-20 07:41:28,156 Sent to printer: Command Type:None, gcode:M204, cmd: M204 P500.00 R1000.00 T500.00, tags: set(['filepos:474', 'source:file', 'fileline:4'])
+2020-01-20 07:41:28,162 Received from printer: line:ok
+
+2020-01-20 07:41:28,169 Queuing Command: Command Type:None, gcode:M220, cmd: M220 S100, tags: set(['source:file', 'filepos:543', 'fileline:6'])
+2020-01-20 07:41:28,170 Sent to printer: Command Type:None, gcode:M205, cmd: M205 X8.00 Y8.00 Z0.40 E5.00, tags: set(['filepos:516', 'source:file', 'fileline:5'])
+2020-01-20 07:41:28,187 Received from printer: line:ok
+
+2020-01-20 07:41:28,192 Queuing Command: Command Type:None, gcode:M221, cmd: M221 S100, tags: set(['source:file', 'filepos:570', 'fileline:7'])
+2020-01-20 07:41:28,194 Sent to printer: Command Type:None, gcode:M220, cmd: M220 S100, tags: set(['source:file', 'filepos:543', 'fileline:6'])
+2020-01-20 07:41:28,202 Received from printer: line:ok
+
+2020-01-20 07:41:28,208 Queuing Command: Command Type:None, gcode:M140, cmd: M140 S60, tags: set(['fileline:8', 'source:file', 'filepos:634'])
+2020-01-20 07:41:28,209 Sent to printer: Command Type:None, gcode:M221, cmd: M221 S100, tags: set(['source:file', 'filepos:570', 'fileline:7'])
+2020-01-20 07:41:28,217 Queuing Command: Command Type:None, gcode:M104, cmd: M104 S205 T0, tags: set(['fileline:9', 'source:file', 'filepos:677'])
+2020-01-20 07:41:28,225 Printer event received:Error.
+2020-01-20 07:41:28,235 Printer event received:UpdatedFiles.
+2020-01-20 07:41:28,244 Printer event received:UpdatedFiles.
+2020-01-20 07:41:28,264 Printer event received:Disconnected.
+2020-01-20 07:41:28,268 Starting render.
+2020-01-20 07:41:28,270 Reading snapshot metadata from /home/pi/.octoprint/data/octolapse/snapshots/279b5b07-2598-4b90-9dcb-0aab891b7976/354def78-9eea-409a-ad23-ee966dfff4ba/metadata.csv
+2020-01-20 07:41:28,273 Printer disconnected.
+2020-01-20 07:41:28,279 Found 0 images via a manual search.
+2020-01-20 07:41:28,280 Printer event received:PrinterStateChanged.
+2020-01-20 07:41:28,286 insufficient-images: No snapshots were found for the 'Default Webcam' camera profile.
+2020-01-20 07:41:28,288 Completed rendering. JobId: 279b5b07-2598-4b90-9dcb-0aab891b7976
+2020-01-20 07:41:28,309 Printer event received:MetadataStatisticsUpdated.
+2020-01-20 07:41:28,321 Printer event received:PrintFailed.
+2020-01-20 07:41:28,325 Print failed.
+2020-01-20 07:41:38,511 Printer event received:Connecting.
+2020-01-20 07:41:38,643 Printer event received:PrinterStateChanged.
+2020-01-20 07:41:38,647 Printer event received:PrinterStateChanged.
+2020-01-20 07:41:42,437 Printer event received:PrinterStateChanged.
+2020-01-20 07:41:42,444 Printer event received:Connected.
+2020-01-20 07:41:42,482 Printer event received:FirmwareData.
+2020-01-20 07:41:42,895 Saving Settings.
+2020-01-20 07:41:42,944 Settings saved.
+2020-01-20 07:41:43,042 Printer event received:UpdatedFiles.
+2020-01-20 07:41:43,048 Printer event received:UpdatedFiles.
+2020-01-20 07:41:50,671 Printer event received:FileSelected.
+2020-01-20 07:41:50,699 Printer event received:PrinterStateChanged.
+2020-01-20 07:41:50,708 Printer event received:PrintStarted.
+2020-01-20 07:41:50,766 Printer event received:PrinterStateChanged.
+2020-01-20 07:41:50,849 Printer event received:Home.
+2020-01-20 07:41:50,857 homing to payload:None.
+2020-01-20 07:42:03,246 Printer event received:PrintCancelling.
+2020-01-20 07:42:03,246 Print cancelling.
+2020-01-20 07:42:03,256 Printer event received:PrinterStateChanged.
+2020-01-20 07:42:03,269 Printer event received:PrintCancelled.
+2020-01-20 07:42:03,271 Print cancelled.
+2020-01-20 07:42:03,348 Printer event received:MetadataStatisticsUpdated.
+2020-01-20 07:42:03,352 Printer event received:PrintFailed.
+2020-01-20 07:42:03,352 Print failed.
+2020-01-20 07:42:29,374 Printer event received:PositionUpdate.
+2020-01-20 07:42:29,439 Printer event received:PrinterStateChanged.
+2020-01-20 07:52:50,157 Printer event received:ClientClosed.
+2020-01-20 07:52:51,361 Printer event received:ClientClosed.
+2020-01-20 07:52:51,895 Printer event received:Shutdown.
+2020-01-20 07:53:08,822 Settings loaded.
+2020-01-20 07:53:08,829 Setting octolapse camera address to http://127.0.0.1:8080/.
+2020-01-20 07:53:08,830 Setting octolapse camera snapshot template to {camera_address}?action=snapshot.
+2020-01-20 07:53:08,835 Octolapse - loaded and active.
+2020-01-20 07:53:10,127 Printer event received:ConnectivityChanged.
+2020-01-20 07:53:11,647 Printer event received:ClientOpened.
+2020-01-20 07:53:11,850 Octolapse - is loading template configurations.
+2020-01-20 07:53:56,771 Printer event received:ClientOpened.
+2020-01-20 07:54:18,290 Printer event received:ClientClosed.
+2020-01-20 07:54:22,382 Printer event received:ClientOpened.
+2020-01-20 07:55:03,454 Printer event received:Connecting.
+2020-01-20 07:55:03,555 Printer event received:PrinterStateChanged.
+2020-01-20 07:55:03,690 Printer event received:PrinterStateChanged.
+2020-01-20 07:55:03,707 Printer event received:PrinterStateChanged.
+2020-01-20 07:55:04,993 Printer event received:PrinterStateChanged.
+2020-01-20 07:55:05,015 Printer event received:Connected.
+2020-01-20 07:55:07,044 Printer event received:FirmwareData.
+2020-01-20 07:55:07,626 Printer event received:UpdatedFiles.
+2020-01-20 07:55:07,627 Printer event received:UpdatedFiles.
+2020-01-20 07:55:09,865 Saving Settings.
+2020-01-20 07:55:09,957 Settings saved.
+2020-01-20 07:55:14,227 Printer event received:FileSelected.
+2020-01-20 07:55:14,263 Printer event received:PrinterStateChanged.
+2020-01-20 07:55:14,276 Printer event received:PrintStarted.
+2020-01-20 07:55:14,321 Print Start Detected.  Command: M110 N0, Tags:set(['trigger:comm.start_print', 'source:job', 'trigger:comm.reset_line_numbers'])
+2020-01-20 07:55:14,322 Print start detected, attempting to start timelapse.
+2020-01-20 07:55:14,410 Camera settings applied without error.
+2020-01-20 07:55:14,411 Camera settings applied without error.
+2020-01-20 07:55:14,418 Extruder Triggers - OnExtrudingStart:True, OnExtruding:True, OnPrimed:True, OnRetractingStart:None OnRetracting:None, OnPartiallyRetracted:False, OnRetracted:True, ONDetractingStart:False, OnDetracting:False, OnDetracted:False
+2020-01-20 07:55:14,419 Creating Layer Trigger - TriggerHeight:0.4 (none = layer change), RequiresZHop:False
+2020-01-20 07:55:14,439 Print Started - Timelapse Started.
+2020-01-20 07:55:14,443 Queuing Command: Command Type:None, gcode:M110, cmd: M110 N0, tags: set(['trigger:comm.start_print', 'source:job', 'trigger:comm.reset_line_numbers'])
+2020-01-20 07:55:14,449 Queuing Command: Command Type:None, gcode:M82, cmd: M82, tags: set(['fileline:1', 'source:file', 'filepos:270'])
+2020-01-20 07:55:14,453 Received M82 - Switching Extruder to Absolute Coordinates
+2020-01-20 07:55:14,453 Printer event received:PrinterStateChanged.
+2020-01-20 07:55:14,454 Extruder Changed: E:0.0, Retraction:0 IsExtruding:False-False, IsExtrudingStart:False-False, IsPrimed:False-True, IsRetractingStart:False-False, IsRetracting:False-False, IsPartiallyRetracted:False-False, IsRetracted:False-False, IsDetractingStart:False-False, IsDetracting:False-False, IsDetracted:False-False
+2020-01-20 07:55:14,463 Sent to printer: Command Type:None, gcode:M110, cmd: M110 N0, tags: set(['trigger:comm.start_print', 'source:job', 'trigger:comm.reset_line_numbers'])
+2020-01-20 07:55:14,470 Received from printer: line:ok
+
+2020-01-20 07:55:14,475 Queuing Command: Command Type:None, gcode:M201, cmd: M201 X500.00 Y500.00 Z100.00 E5000.00, tags: set(['source:file', 'fileline:2', 'filepos:341'])
+2020-01-20 07:55:14,480 Sent to printer: Command Type:None, gcode:M82, cmd: M82, tags: set(['fileline:1', 'source:file', 'filepos:270'])
+2020-01-20 07:55:14,495 Received from printer: line:ok
+
+2020-01-20 07:55:14,496 Queuing Command: Command Type:None, gcode:M203, cmd: M203 X500.00 Y500.00 Z10.00 E50.00, tags: set(['filepos:405', 'source:file', 'fileline:3'])
+2020-01-20 07:55:14,497 Sent to printer: Command Type:None, gcode:M201, cmd: M201 X500.00 Y500.00 Z100.00 E5000.00, tags: set(['source:file', 'fileline:2', 'filepos:341'])
+2020-01-20 07:55:14,515 Received from printer: line:ok
+
+2020-01-20 07:55:14,519 Sent to printer: Command Type:None, gcode:M203, cmd: M203 X500.00 Y500.00 Z10.00 E50.00, tags: set(['filepos:405', 'source:file', 'fileline:3'])
+2020-01-20 07:55:14,520 Queuing Command: Command Type:None, gcode:M204, cmd: M204 P500.00 R1000.00 T500.00, tags: set(['source:file', 'filepos:477', 'fileline:4'])
+2020-01-20 07:55:14,531 Received from printer: line:ok
+
+2020-01-20 07:55:14,531 Queuing Command: Command Type:None, gcode:M205, cmd: M205 X8.00 Y8.00 Z0.40 E5.00, tags: set(['source:file', 'fileline:5', 'filepos:519'])
+2020-01-20 07:55:14,543 Sent to printer: Command Type:None, gcode:M204, cmd: M204 P500.00 R1000.00 T500.00, tags: set(['source:file', 'filepos:477', 'fileline:4'])
+2020-01-20 07:55:14,548 Received from printer: line:ok
+
+2020-01-20 07:55:14,554 Queuing Command: Command Type:None, gcode:M220, cmd: M220 S100, tags: set(['source:file', 'fileline:6', 'filepos:546'])
+2020-01-20 07:55:14,559 Sent to printer: Command Type:None, gcode:M205, cmd: M205 X8.00 Y8.00 Z0.40 E5.00, tags: set(['source:file', 'fileline:5', 'filepos:519'])
+2020-01-20 07:55:14,568 Received from printer: line:ok
+
+2020-01-20 07:55:14,572 Queuing Command: Command Type:None, gcode:M221, cmd: M221 S100, tags: set(['source:file', 'filepos:573', 'fileline:7'])
+2020-01-20 07:55:14,578 Sent to printer: Command Type:None, gcode:M220, cmd: M220 S100, tags: set(['source:file', 'fileline:6', 'filepos:546'])
+2020-01-20 07:55:14,583 Received from printer: line:ok
+
+2020-01-20 07:55:14,588 Queuing Command: Command Type:None, gcode:M140, cmd: M140 S60, tags: set(['fileline:8', 'filepos:637', 'source:file'])
+2020-01-20 07:55:14,593 Queuing Command: Command Type:None, gcode:M104, cmd: M104 S195 T0, tags: set(['fileline:9', 'source:file', 'filepos:680'])
+2020-01-20 07:55:14,594 Sent to printer: Command Type:None, gcode:M221, cmd: M221 S100, tags: set(['source:file', 'filepos:573', 'fileline:7'])
+2020-01-20 07:55:14,623 Printer event received:Error.
+2020-01-20 07:55:14,633 Printer event received:UpdatedFiles.
+2020-01-20 07:55:14,645 Printer event received:UpdatedFiles.
+2020-01-20 07:55:14,659 Printer event received:Disconnected.
+2020-01-20 07:55:14,688 Starting render.
+2020-01-20 07:55:14,690 Reading snapshot metadata from /home/pi/.octoprint/data/octolapse/snapshots/21565bb5-528b-4239-8e75-05874670e85f/354def78-9eea-409a-ad23-ee966dfff4ba/metadata.csv
+2020-01-20 07:55:14,694 Found 0 images via a manual search.
+2020-01-20 07:55:14,696 insufficient-images: No snapshots were found for the 'Default Webcam' camera profile.
+2020-01-20 07:55:14,697 Completed rendering. JobId: 21565bb5-528b-4239-8e75-05874670e85f
+2020-01-20 07:55:14,700 Printer disconnected.
+2020-01-20 07:55:14,716 Printer event received:PrinterStateChanged.
+2020-01-20 07:55:14,759 Printer event received:MetadataStatisticsUpdated.
+2020-01-20 07:55:14,760 Printer event received:PrintFailed.
+2020-01-20 07:55:14,774 Print failed.
+2020-01-20 07:57:39,017 Printer event received:Connecting.
+2020-01-20 07:57:39,140 Printer event received:PrinterStateChanged.
+2020-01-20 07:57:39,186 Printer event received:PrinterStateChanged.
+2020-01-20 07:57:42,933 Printer event received:PrinterStateChanged.
+2020-01-20 07:57:42,954 Printer event received:Connected.
+2020-01-20 07:57:42,996 Printer event received:FirmwareData.
+2020-01-20 07:57:43,545 Printer event received:UpdatedFiles.
+2020-01-20 07:57:43,550 Printer event received:UpdatedFiles.
+2020-01-20 07:57:47,398 Printer event received:FileSelected.
+2020-01-20 07:57:47,440 Printer event received:PrinterStateChanged.
+2020-01-20 07:57:47,466 Printer event received:PrintStarted.
+2020-01-20 07:57:47,488 Print Start Detected.  Command: M110 N0, Tags:set(['trigger:comm.start_print', 'source:job', 'trigger:comm.reset_line_numbers'])
+2020-01-20 07:57:47,492 Print start detected, attempting to start timelapse.
+2020-01-20 07:57:49,514 Traceback (most recent call last):
+  File "/home/pi/oprint/local/lib/python2.7/site-packages/octoprint_octolapse/__init__.py", line 962, in on_print_start
+    camera.test_web_camera(current_camera)
+  File "/home/pi/oprint/local/lib/python2.7/site-packages/octoprint_octolapse/camera.py", line 54, in test_web_camera
+    url, verify=not camera_profile.ignore_ssl_error, timeout=float(timeout_seconds))
+  File "/home/pi/oprint/local/lib/python2.7/site-packages/requests/api.py", line 75, in get
+    return request('get', url, params=params, **kwargs)
+  File "/home/pi/oprint/local/lib/python2.7/site-packages/requests/api.py", line 60, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/home/pi/oprint/local/lib/python2.7/site-packages/requests/sessions.py", line 533, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/home/pi/oprint/local/lib/python2.7/site-packages/requests/sessions.py", line 646, in send
+    r = adapter.send(request, **kwargs)
+  File "/home/pi/oprint/local/lib/python2.7/site-packages/requests/adapters.py", line 529, in send
+    raise ReadTimeout(e, request=request)
+ReadTimeout: HTTPConnectionPool(host='127.0.0.1', port=8080): Read timed out. (read timeout=2.0)
+
+2020-01-20 07:57:49,532 Printer event received:PrintCancelling.
+2020-01-20 07:57:49,534 Print cancelling.
+2020-01-20 07:57:49,553 Printer event received:PrinterStateChanged.
+2020-01-20 07:57:49,590 Printer event received:PrintCancelled.
+2020-01-20 07:57:49,594 Print cancelled.
+2020-01-20 07:57:49,645 Unable to start the timelapse.  Cancelling print.  Error:  An unknown exception occurred while testing the 'Default Webcam' camera profile.  Check plugin_octolapse.log for details.
+2020-01-20 07:57:49,666 Printer event received:PrinterStateChanged.
+2020-01-20 07:57:49,674 Traceback (most recent call last):
+  File "/home/pi/oprint/local/lib/python2.7/site-packages/octoprint_octolapse/__init__.py", line 1318, in on_gcode_queuing
+    return self.Timelapse.on_gcode_queuing(cmd, cmd_type, gcode, kwargs["tags"])
+  File "/home/pi/oprint/local/lib/python2.7/site-packages/octoprint_octolapse/timelapse.py", line 565, in on_gcode_queuing
+    self.detect_timelapse_start(command_string, tags)
+  File "/home/pi/oprint/local/lib/python2.7/site-packages/octoprint_octolapse/timelapse.py", line 718, in detect_timelapse_start
+    self.on_print_start(tags)
+  File "/home/pi/oprint/local/lib/python2.7/site-packages/octoprint_octolapse/timelapse.py", line 555, in on_print_start
+    self.OnPrintStartCallback(tags)
+  File "/home/pi/oprint/local/lib/python2.7/site-packages/octoprint_octolapse/__init__.py", line 972, in on_print_start
+    raise e
+ReadTimeout: HTTPConnectionPool(host='127.0.0.1', port=8080): Read timed out. (read timeout=2.0)
+
+2020-01-20 07:57:49,713 Printer event received:MetadataStatisticsUpdated.
+2020-01-20 07:57:49,720 Printer event received:PrintFailed.
+2020-01-20 07:57:49,721 Print failed.
+2020-01-20 07:57:49,751 Printer event received:PrinterStateChanged.
+2020-01-20 07:57:56,926 Saving Settings.
+2020-01-20 07:57:57,011 Settings saved.
+2020-01-20 07:57:57,873 Saving Settings.
+2020-01-20 07:57:57,966 Settings saved.
+2020-01-20 07:58:00,905 Printer event received:PrinterStateChanged.
+2020-01-20 07:58:00,916 Printer event received:PrintStarted.
+2020-01-20 07:58:00,956 Print Start Detected.  Command: M110 N0, Tags:set(['trigger:comm.start_print', 'source:job', 'trigger:comm.reset_line_numbers'])
+2020-01-20 07:58:00,958 Print start detected, attempting to start timelapse.
+2020-01-20 07:58:00,962 Camera settings applied without error.
+2020-01-20 07:58:00,963 Camera settings applied without error.
+2020-01-20 07:58:00,979 Extruder Triggers - OnExtrudingStart:True, OnExtruding:True, OnPrimed:True, OnRetractingStart:None OnRetracting:None, OnPartiallyRetracted:False, OnRetracted:True, ONDetractingStart:False, OnDetracting:False, OnDetracted:False
+2020-01-20 07:58:00,984 Creating Layer Trigger - TriggerHeight:0.4 (none = layer change), RequiresZHop:False
+2020-01-20 07:58:01,012 Print Started - Timelapse Started.
+2020-01-20 07:58:01,017 Queuing Command: Command Type:None, gcode:M110, cmd: M110 N0, tags: set(['trigger:comm.start_print', 'source:job', 'trigger:comm.reset_line_numbers'])
+2020-01-20 07:58:01,020 Printer event received:PrinterStateChanged.
+2020-01-20 07:58:01,045 Queuing Command: Command Type:None, gcode:M82, cmd: M82, tags: set(['fileline:1', 'source:file', 'filepos:270'])
+2020-01-20 07:58:01,055 Received M82 - Switching Extruder to Absolute Coordinates
+2020-01-20 07:58:01,058 Extruder Changed: E:0.0, Retraction:0 IsExtruding:False-False, IsExtrudingStart:False-False, IsPrimed:False-True, IsRetractingStart:False-False, IsRetracting:False-False, IsPartiallyRetracted:False-False, IsRetracted:False-False, IsDetractingStart:False-False, IsDetracting:False-False, IsDetracted:False-False
+2020-01-20 07:58:01,062 Sent to printer: Command Type:None, gcode:M110, cmd: M110 N0, tags: set(['trigger:comm.start_print', 'source:job', 'trigger:comm.reset_line_numbers'])
+2020-01-20 07:58:01,066 Received from printer: line:ok
+
+2020-01-20 07:58:01,070 Queuing Command: Command Type:None, gcode:M201, cmd: M201 X500.00 Y500.00 Z100.00 E5000.00, tags: set(['source:file', 'fileline:2', 'filepos:341'])
+2020-01-20 07:58:01,074 Sent to printer: Command Type:None, gcode:M82, cmd: M82, tags: set(['fileline:1', 'source:file', 'filepos:270'])
+2020-01-20 07:58:01,079 Received from printer: line:ok
+
+2020-01-20 07:58:01,082 Queuing Command: Command Type:None, gcode:M203, cmd: M203 X500.00 Y500.00 Z10.00 E50.00, tags: set(['filepos:405', 'source:file', 'fileline:3'])
+2020-01-20 07:58:01,086 Sent to printer: Command Type:None, gcode:M201, cmd: M201 X500.00 Y500.00 Z100.00 E5000.00, tags: set(['source:file', 'fileline:2', 'filepos:341'])
+2020-01-20 07:58:01,103 Received from printer: line:ok
+
+2020-01-20 07:58:01,105 Sent to printer: Command Type:None, gcode:M203, cmd: M203 X500.00 Y500.00 Z10.00 E50.00, tags: set(['filepos:405', 'source:file', 'fileline:3'])
+2020-01-20 07:58:01,108 Queuing Command: Command Type:None, gcode:M204, cmd: M204 P500.00 R1000.00 T500.00, tags: set(['source:file', 'filepos:477', 'fileline:4'])
+2020-01-20 07:58:01,123 Received from printer: line:ok
+
+2020-01-20 07:58:01,127 Sent to printer: Command Type:None, gcode:M204, cmd: M204 P500.00 R1000.00 T500.00, tags: set(['source:file', 'filepos:477', 'fileline:4'])
+2020-01-20 07:58:01,130 Queuing Command: Command Type:None, gcode:M205, cmd: M205 X8.00 Y8.00 Z0.40 E5.00, tags: set(['source:file', 'fileline:5', 'filepos:519'])
+2020-01-20 07:58:01,135 Received from printer: line:ok
+
+2020-01-20 07:58:01,144 Sent to printer: Command Type:None, gcode:M205, cmd: M205 X8.00 Y8.00 Z0.40 E5.00, tags: set(['source:file', 'fileline:5', 'filepos:519'])
+2020-01-20 07:58:01,146 Queuing Command: Command Type:None, gcode:M220, cmd: M220 S100, tags: set(['source:file', 'fileline:6', 'filepos:546'])
+2020-01-20 07:58:01,151 Received from printer: line:ok
+
+2020-01-20 07:58:01,154 Sent to printer: Command Type:None, gcode:M220, cmd: M220 S100, tags: set(['source:file', 'fileline:6', 'filepos:546'])
+2020-01-20 07:58:01,169 Queuing Command: Command Type:None, gcode:M221, cmd: M221 S100, tags: set(['source:file', 'filepos:573', 'fileline:7'])
+2020-01-20 07:58:01,170 Received from printer: line:ok
+
+2020-01-20 07:58:01,174 Sent to printer: Command Type:None, gcode:M221, cmd: M221 S100, tags: set(['source:file', 'filepos:573', 'fileline:7'])
+2020-01-20 07:58:01,176 Queuing Command: Command Type:None, gcode:M140, cmd: M140 S60, tags: set(['fileline:8', 'filepos:637', 'source:file'])
+2020-01-20 07:58:01,185 Queuing Command: Command Type:None, gcode:M104, cmd: M104 S195 T0, tags: set(['fileline:9', 'source:file', 'filepos:680'])
+2020-01-20 07:58:01,207 Printer event received:Error.
+2020-01-20 07:58:01,214 Printer event received:UpdatedFiles.
+2020-01-20 07:58:01,220 Printer event received:UpdatedFiles.
+2020-01-20 07:58:01,233 Printer event received:Disconnected.
+2020-01-20 07:58:01,237 Starting render.
+2020-01-20 07:58:01,239 Reading snapshot metadata from /home/pi/.octoprint/data/octolapse/snapshots/6e26f370-a3f6-4cf1-b531-f216577c9ec3/ea5a14ee-859b-485c-9883-358cf9a4d869/metadata.csv
+2020-01-20 07:58:01,241 Found 0 images via a manual search.
+2020-01-20 07:58:01,248 insufficient-images: No snapshots were found for the 'DSLR' camera profile.
+2020-01-20 07:58:01,250 Completed rendering. JobId: 6e26f370-a3f6-4cf1-b531-f216577c9ec3
+2020-01-20 07:58:01,254 Printer disconnected.
+2020-01-20 07:58:01,259 Printer event received:PrinterStateChanged.
+2020-01-20 07:58:01,454 Printer event received:MetadataStatisticsUpdated.
+2020-01-20 07:58:01,455 Printer event received:PrintFailed.
+2020-01-20 07:58:01,456 Print failed.
+2020-01-20 07:58:19,805 Saving Settings.
+2020-01-20 07:58:19,878 Settings saved.
+2020-01-20 07:58:22,301 Printer event received:Connecting.
+2020-01-20 07:58:22,377 Printer event received:PrinterStateChanged.
+2020-01-20 07:58:22,403 Printer event received:PrinterStateChanged.
+2020-01-20 07:58:26,183 Printer event received:PrinterStateChanged.
+2020-01-20 07:58:26,184 Printer event received:Connected.
+2020-01-20 07:58:26,214 Printer event received:FirmwareData.
+2020-01-20 07:58:26,768 Printer event received:UpdatedFiles.
+2020-01-20 07:58:26,769 Printer event received:UpdatedFiles.
+2020-01-20 08:10:18,963 The print is cancelling, but a position request is in progress.
+2020-01-20 08:19:54,714 Octolapse - loaded and active.
+2020-01-20 08:20:02,564 Octolapse - is loading template configurations.
+2020-01-20 08:22:12,523 Octolapse - loaded and active.
+2020-01-20 08:22:19,990 Octolapse - is loading template configurations.
+2020-01-20 08:24:03,807 Octolapse - loaded and active.
+2020-01-20 08:24:10,361 Octolapse - is loading template configurations.
+2020-01-20 08:28:28,195 Octolapse - loaded and active.
+2020-01-20 08:28:30,884 Octolapse - is loading template configurations.
+2020-01-20 08:30:42,820 Saving Settings.
+2020-01-20 08:30:43,106 Settings saved.
+2020-01-20 08:30:43,144 Printer event received:ClientOpened.
+2020-01-20 08:30:59,110 Printer event received:FileSelected.
+2020-01-20 08:30:59,141 Printer event received:PrinterStateChanged.
+2020-01-20 08:30:59,151 Printer event received:PrintStarted.
+2020-01-20 08:30:59,168 Print Start Detected.  Command: M110 N0, Tags:set(['trigger:comm.start_print', 'source:job', 'trigger:comm.reset_line_numbers'])
+2020-01-20 08:30:59,169 Print start detected, attempting to start timelapse.
+2020-01-20 08:30:59,228 Camera settings applied without error.
+2020-01-20 08:30:59,229 Camera settings applied without error.
+2020-01-20 08:30:59,237 Extruder Triggers - OnExtrudingStart:True, OnExtruding:True, OnPrimed:True, OnRetractingStart:None OnRetracting:None, OnPartiallyRetracted:False, OnRetracted:True, ONDetractingStart:False, OnDetracting:False, OnDetracted:False
+2020-01-20 08:30:59,237 Creating Layer Trigger - TriggerHeight:0.0 (none = layer change), RequiresZHop:False
+2020-01-20 08:30:59,248 Print Started - Timelapse Started.
+2020-01-20 08:30:59,251 Queuing Command: Command Type:None, gcode:M110, cmd: M110 N0, tags: set(['trigger:comm.start_print', 'source:job', 'trigger:comm.reset_line_numbers'])
+2020-01-20 08:30:59,263 Queuing Command: Command Type:None, gcode:M82, cmd: M82, tags: set(['fileline:1', 'source:file', 'filepos:267'])
+2020-01-20 08:30:59,264 Received M82 - Switching Extruder to Absolute Coordinates
+2020-01-20 08:30:59,269 Extruder Changed: E:0.0, Retraction:0 IsExtruding:False-False, IsExtrudingStart:False-False, IsPrimed:False-True, IsRetractingStart:False-False, IsRetracting:False-False, IsPartiallyRetracted:False-False, IsRetracted:False-False, IsDetractingStart:False-False, IsDetracting:False-False, IsDetracted:False-False
+2020-01-20 08:30:59,273 Printer event received:PrinterStateChanged.
+2020-01-20 08:30:59,283 Sent to printer: Command Type:None, gcode:M110, cmd: M110 N0, tags: set(['trigger:comm.start_print', 'source:job', 'trigger:comm.reset_line_numbers'])
+2020-01-20 08:30:59,288 Received from printer: line:ok
+
+2020-01-20 08:30:59,292 Queuing Command: Command Type:None, gcode:M201, cmd: M201 X500.00 Y500.00 Z100.00 E5000.00, tags: set(['source:file', 'filepos:338', 'fileline:2'])
+2020-01-20 08:30:59,305 Sent to printer: Command Type:None, gcode:M82, cmd: M82, tags: set(['fileline:1', 'source:file', 'filepos:267'])
+2020-01-20 08:30:59,311 Received from printer: line:ok
+
+2020-01-20 08:30:59,317 Queuing Command: Command Type:None, gcode:M203, cmd: M203 X500.00 Y500.00 Z10.00 E50.00, tags: set(['source:file', 'fileline:3', 'filepos:402'])
+2020-01-20 08:30:59,320 Sent to printer: Command Type:None, gcode:M201, cmd: M201 X500.00 Y500.00 Z100.00 E5000.00, tags: set(['source:file', 'filepos:338', 'fileline:2'])
+2020-01-20 08:30:59,330 Received from printer: line:ok
+
+2020-01-20 08:30:59,338 Queuing Command: Command Type:None, gcode:M204, cmd: M204 P500.00 R1000.00 T500.00, tags: set(['filepos:474', 'source:file', 'fileline:4'])
+2020-01-20 08:30:59,339 Sent to printer: Command Type:None, gcode:M203, cmd: M203 X500.00 Y500.00 Z10.00 E50.00, tags: set(['source:file', 'fileline:3', 'filepos:402'])
+2020-01-20 08:30:59,360 Received from printer: line:ok
+
+2020-01-20 08:30:59,361 Queuing Command: Command Type:None, gcode:M205, cmd: M205 X8.00 Y8.00 Z0.40 E5.00, tags: set(['filepos:516', 'source:file', 'fileline:5'])
+2020-01-20 08:30:59,368 Sent to printer: Command Type:None, gcode:M204, cmd: M204 P500.00 R1000.00 T500.00, tags: set(['filepos:474', 'source:file', 'fileline:4'])
+2020-01-20 08:30:59,394 Received from printer: line:ok
+
+2020-01-20 08:30:59,398 Queuing Command: Command Type:None, gcode:M220, cmd: M220 S100, tags: set(['source:file', 'filepos:543', 'fileline:6'])
+2020-01-20 08:30:59,405 Sent to printer: Command Type:None, gcode:M205, cmd: M205 X8.00 Y8.00 Z0.40 E5.00, tags: set(['filepos:516', 'source:file', 'fileline:5'])
+2020-01-20 08:30:59,418 Received from printer: line:ok
+
+2020-01-20 08:30:59,420 Queuing Command: Command Type:None, gcode:M221, cmd: M221 S100, tags: set(['source:file', 'filepos:570', 'fileline:7'])
+2020-01-20 08:30:59,427 Sent to printer: Command Type:None, gcode:M220, cmd: M220 S100, tags: set(['source:file', 'filepos:543', 'fileline:6'])
+2020-01-20 08:30:59,443 Received from printer: line:ok
+
+2020-01-20 08:30:59,451 Queuing Command: Command Type:None, gcode:M140, cmd: M140 S60, tags: set(['fileline:8', 'source:file', 'filepos:634'])
+2020-01-20 08:30:59,458 Queuing Command: Command Type:None, gcode:M104, cmd: M104 S205 T0, tags: set(['fileline:9', 'source:file', 'filepos:677'])
+2020-01-20 08:30:59,470 Sent to printer: Command Type:None, gcode:M221, cmd: M221 S100, tags: set(['source:file', 'filepos:570', 'fileline:7'])
+2020-01-20 08:30:59,478 Printer event received:Error.
+2020-01-20 08:30:59,481 Printer event received:UpdatedFiles.
+2020-01-20 08:30:59,482 Printer event received:UpdatedFiles.
+2020-01-20 08:30:59,508 Printer event received:Disconnected.
+2020-01-20 08:30:59,534 Starting render.
+2020-01-20 08:30:59,553 Reading snapshot metadata from /home/pi/.octoprint/data/octolapse/snapshots/9574db51-bfed-4b5d-aa9e-aa3206a57318/354def78-9eea-409a-ad23-ee966dfff4ba/metadata.csv
+2020-01-20 08:30:59,555 Printer disconnected.
+2020-01-20 08:30:59,570 Printer event received:PrinterStateChanged.
+2020-01-20 08:30:59,582 Found 0 images via a manual search.
+2020-01-20 08:30:59,583 insufficient-images: No snapshots were found for the 'Default Webcam' camera profile.
+2020-01-20 08:30:59,584 Completed rendering. JobId: 9574db51-bfed-4b5d-aa9e-aa3206a57318
+2020-01-20 08:30:59,592 Starting render.
+2020-01-20 08:30:59,596 Reading snapshot metadata from /home/pi/.octoprint/data/octolapse/snapshots/9574db51-bfed-4b5d-aa9e-aa3206a57318/ea5a14ee-859b-485c-9883-358cf9a4d869/metadata.csv
+2020-01-20 08:30:59,597 Found 0 images via a manual search.
+2020-01-20 08:30:59,597 insufficient-images: No snapshots were found for the 'DSLR' camera profile.
+2020-01-20 08:30:59,598 Completed rendering. JobId: 9574db51-bfed-4b5d-aa9e-aa3206a57318
+2020-01-20 08:30:59,621 Printer event received:MetadataStatisticsUpdated.
+2020-01-20 08:30:59,635 Printer event received:PrintFailed.
+2020-01-20 08:30:59,644 Print failed.
+2020-01-20 08:31:06,563 Printer event received:Connecting.
+2020-01-20 08:31:06,687 Printer event received:PrinterStateChanged.
+2020-01-20 08:31:06,703 Printer event received:PrinterStateChanged.
+2020-01-20 08:31:10,471 Printer event received:PrinterStateChanged.
+2020-01-20 08:31:10,494 Printer event received:Connected.
+2020-01-20 08:31:10,545 Printer event received:FirmwareData.
